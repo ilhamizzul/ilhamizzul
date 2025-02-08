@@ -14,7 +14,7 @@ Hello! My name is Ilham Izzul Hadyan, a passionate Software Engineer with over t
 ## 🌱 Skills & Tools
 
 - **Languages:** Javascript, C#, HTML
-- **Frameworks:**  ASP.NET Framework 4 MVC & Core, Nuxt.JS
+- **Frameworks:**  ASP.NET Framework 4 MVC & Core, Next.JS
 - **Tools:** Katalon, Postman, Git, Visual Studio Code, Qase.io
 - **Methodologies:** Agile, BDD, Functional Testing
 
